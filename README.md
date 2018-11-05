@@ -1,3 +1,3 @@
 # findpeople
-Find people from one of the city (VK.com) with help vk_api
+Find people from one of the city (VK.com) with help vk_api \n
 Поиск людей из одного города (VK.com) при помощи vk_api
